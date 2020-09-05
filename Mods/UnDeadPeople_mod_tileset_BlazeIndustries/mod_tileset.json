@@ -1,1 +1,139 @@
-[{"type": "mod_tileset", "compatibility": ["UNDEAD_PEOPLE_BASE"], "tiles-new": [{"file": "BlazeIndustries_normal.png", "tiles": [{"id": "vp_am249", "fg": 1, "rotates": true}, {"id": "vp_auto_m240", "fg": 2, "rotates": true}, {"id": "vp_auto_m60", "fg": 3, "rotates": true}, {"id": "vp_auto_rm614", "fg": 4, "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": 5, "bg": [4, 16, 6, 1, 2, 3]}]}, {"id": "vp_scorpion", "fg": 6, "rotates": true}, {"id": "solar_array", "fg": 7, "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": 8}]}, {"id": "vp_solar_array", "fg": 9, "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": 10, "bg": 9}]}, {"id": "vp_wiring", "fg": 11, "rotates": true}, {"id": "vp_mounted_bigun", "fg": 12, "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": 13}]}, {"id": "vp_mounted_hk_g80", "fg": 14, "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": 15}]}, {"id": "vp_mounted_m60", "fg": 16, "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": 17, "bg": [4, 16, 6, 1, 2, 3]}]}], "//": "range 1 to 32", "sprite_width": 32, "sprite_height": 32, "sprite_offset_x": 0, "sprite_offset_y": 0}]}]
+[
+    {
+        "type": "mod_tileset",
+        "compatibility": [
+            "UNDEAD_PEOPLE_BASE"
+        ],
+        "tiles-new": [
+            {
+                "file": "BlazeIndustries_normal.png",
+                "tiles": [
+                    {
+                        "id": "vp_am249",
+                        "fg": 1,
+                        "rotates": true
+                    },
+                    {
+                        "id": "vp_auto_m240",
+                        "fg": 2,
+                        "rotates": true
+                    },
+                    {
+                        "id": "vp_auto_m60",
+                        "fg": 3,
+                        "rotates": true
+                    },
+                    {
+                        "id": "vp_auto_rm614",
+                        "fg": 4,
+                        "rotates": true,
+                        "multitile": true,
+                        "additional_tiles": [
+                            {
+                                "id": "broken",
+                                "fg": 5,
+                                "bg": [
+                                    4,
+                                    16,
+                                    6,
+                                    1,
+                                    2,
+                                    3
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "vp_scorpion",
+                        "fg": 6,
+                        "rotates": true
+                    },
+                    {
+                        "id": "solar_array",
+                        "fg": 7,
+                        "rotates": true,
+                        "multitile": true,
+                        "additional_tiles": [
+                            {
+                                "id": "broken",
+                                "fg": 8
+                            }
+                        ]
+                    },
+                    {
+                        "id": "vp_solar_array",
+                        "fg": 9,
+                        "rotates": false,
+                        "multitile": true,
+                        "additional_tiles": [
+                            {
+                                "id": "broken",
+                                "fg": 10,
+                                "bg": 9
+                            }
+                        ]
+                    },
+                    {
+                        "id": "vp_wiring",
+                        "fg": 11,
+                        "rotates": true
+                    },
+                    {
+                        "id": "vp_mounted_bigun",
+                        "fg": 12,
+                        "rotates": true,
+                        "multitile": true,
+                        "additional_tiles": [
+                            {
+                                "id": "broken",
+                                "fg": 13
+                            }
+                        ]
+                    },
+                    {
+                        "id": "vp_mounted_hk_g80",
+                        "fg": 14,
+                        "rotates": true,
+                        "multitile": true,
+                        "additional_tiles": [
+                            {
+                                "id": "broken",
+                                "fg": 15
+                            }
+                        ]
+                    },
+                    {
+                        "id": "vp_mounted_m60",
+                        "fg": 16,
+                        "rotates": true,
+                        "multitile": true,
+                        "additional_tiles": [
+                            {
+                                "id": "broken",
+                                "fg": 17,
+                                "bg": [
+                                    4,
+                                    16,
+                                    6,
+                                    1,
+                                    2,
+                                    3
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "vp_cargo_rack_extended",
+                        "fg": 18,
+                        "rotates": false
+                    }
+                ],
+                "//": "range 1 to 32",
+                "sprite_width": 32,
+                "sprite_height": 32,
+                "sprite_offset_x": 0,
+                "sprite_offset_y": 0
+            }
+        ]
+    }
+]
