@@ -4,7 +4,7 @@
     "compatibility": [ "UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE", "MshockRealXotto", "MSX++DEAD_PEOPLE" ],
     "tiles-new": [
       {
-        "file": "mod_tileset\arcana_normal.png",
+        "file": "mod_tileset\\arcana_normal.png",
         "tiles": [
           { "id": "bg_book", "fg": 1, "rotates": false },
           { "id": "bg_book_magazine", "fg": 2, "rotates": false },
@@ -399,7 +399,7 @@
         "sprite_offset_y": 0
       },
       {
-        "file": "mod_tileset\arcana_large.png",
+        "file": "mod_tileset\\arcana_large.png",
         "tiles": [
           { "id": "mon_dark_wyrm_summoned", "fg": 401, "rotates": false },
           { "id": "mon_flesh_angel_summoned", "fg": 402, "rotates": false },
@@ -455,7 +455,7 @@
         "sprite_offset_y": -48
       },
       {
-        "file": "mod_tileset\arcana_tall.png",
+        "file": "mod_tileset\\arcana_tall.png",
         "tiles": [
           { "id": "mon_dracolich", "fg": 433 },
           { "id": "corpse_mon_dracolich", "fg": 434 },

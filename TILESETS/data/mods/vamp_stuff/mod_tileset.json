@@ -1,1 +1,465 @@
-[{"type": "mod_tileset", "compatibility": ["UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE", "MshockRealXotto", "MSX++DEAD_PEOPLE"], "tiles-new": [{"file": "VampiricStuff_normal.png", "tiles": [{"id": "bg_dirt", "fg": 1}, {"id": "bg_dirt_season_winter", "fg": 2, "rotates": false}, {"id": "bg_pavement", "fg": 3, "rotates": false}, {"id": "bg_shadow_item", "fg": 4, "rotates": false}, {"id": "bg_shadow_normal", "fg": 5}, {"id": "bg_stone_floor", "fg": 6, "rotates": false}, {"id": "mon_bigvampbat", "fg": [{"weight": 10, "sprite": 7}, {"weight": 10, "sprite": 8}, {"weight": 10, "sprite": 9}], "animated": true}, {"id": "corpse_mon_bigvampbat", "fg": 10, "rotates": false}, {"id": "mon_feralvampbat", "fg": [{"weight": 10, "sprite": 11}, {"weight": 10, "sprite": 12}, {"weight": 10, "sprite": 13}], "animated": true}, {"id": "corpse_mon_feralvampbat", "fg": 14, "rotates": false}, {"id": "mon_vampbat", "fg": [{"weight": 10, "sprite": 15}, {"weight": 10, "sprite": 16}, {"weight": 10, "sprite": 17}], "animated": true}, {"id": "corpse_mon_vampbat", "fg": 18, "rotates": false}, {"id": "mon_insect_abominableleech", "fg": 19, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_abominableleech", "fg": 20, "bg": 5, "rotates": false}, {"id": "mon_insect_acidicleech", "fg": 21, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_acidicleech", "fg": 22, "bg": 5, "rotates": false}, {"id": "mon_insect_bigleech", "fg": 23, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_bigleech", "fg": 24, "bg": 5, "rotates": false}, {"id": "mon_insect_bloatedleech", "fg": 25, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_bloatedleech", "fg": 26, "bg": 5, "rotates": false}, {"id": "mon_insect_bloodsurgeleech", "fg": 27, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_bloodsurgeleech", "fg": 28, "rotates": false}, {"id": "mon_insect_devourerleech", "fg": 29, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_devourerleech", "fg": 30, "rotates": false}, {"id": "mon_insect_dreadfulleech", "fg": 31, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_dreadfulleech", "fg": 32, "rotates": false}, {"id": "mon_insect_eyedleech", "fg": 33, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_eyedleech", "fg": 34, "bg": 5, "rotates": false}, {"id": "mon_insect_hugeleech", "fg": 35, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_hugeleech", "fg": 36, "rotates": false}, {"id": "mon_insect_leech", "fg": 37, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_leech", "fg": 38, "bg": 5, "rotates": false}, {"id": "mon_insect_sharpshooterleech", "fg": 39, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_sharpshooterleech", "fg": 40, "bg": 5, "rotates": false}, {"id": "mon_insect_spikyleech", "fg": 41, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_spikyleech", "fg": 42, "bg": 5, "rotates": false}, {"id": "mon_insect_vampireleech", "fg": 43, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_vampireleech", "fg": 44, "bg": 5, "rotates": false}, {"id": "mon_insect_venomleech", "fg": 45, "bg": 5, "rotates": false}, {"id": "corpse_mon_insect_venomleech", "fg": 46, "bg": 5, "rotates": false}, {"id": "mon_desolation_aura", "fg": [{"weight": 10, "sprite": 47}, {"weight": 10, "sprite": 48}, {"weight": 10, "sprite": 49}, {"weight": 10, "sprite": 50}, {"weight": 10, "sprite": 51}], "animated": true}, {"id": "mon_ether_shadow", "fg": [{"weight": 10, "sprite": 52}, {"weight": 10, "sprite": 53}, {"weight": 10, "sprite": 55}, {"weight": 10, "sprite": 56}, {"weight": 10, "sprite": 55}, {"weight": 10, "sprite": 54}, {"weight": 10, "sprite": 53}], "animated": true}, {"id": "mon_idol_vex_etherhar", "fg": [{"weight": 10, "sprite": 57}, {"weight": 10, "sprite": 58}, {"weight": 10, "sprite": 60}, {"weight": 10, "sprite": 61}, {"weight": 10, "sprite": 60}, {"weight": 10, "sprite": 59}, {"weight": 10, "sprite": 58}], "animated": true}, {"id": "mon_orus_bloodling", "fg": [{"weight": 10, "sprite": 62}, {"weight": 10, "sprite": 63}, {"weight": 10, "sprite": 65}, {"weight": 10, "sprite": 66}, {"weight": 10, "sprite": 65}, {"weight": 10, "sprite": 64}, {"weight": 10, "sprite": 63}], "animated": true}, {"id": "mon_zombie_bloodcompact", "fg": [{"weight": 10, "sprite": 67}, {"weight": 10, "sprite": 68}, {"weight": 10, "sprite": 69}], "bg": 5, "animated": true}, {"id": "corpse_mon_zombie_bloodcompact", "fg": 70, "rotates": false}, {"id": "mon_zombie_blooddefused", "fg": 71, "bg": 5, "animated": false}, {"id": "corpse_mon_zombie_blooddefused", "fg": 72, "rotates": false}, {"id": "mon_zombie_bloodinfused", "fg": 73, "bg": 5, "animated": false}, {"id": "corpse_mon_zombie_bloodinfused", "fg": 74, "rotates": false}, {"id": "mon_zombie_bonewraith", "fg": 75, "bg": 5, "animated": false}, {"id": "corpse_mon_zombie_bonewraith", "fg": 76, "rotates": false}, {"id": "mon_zombie_succumbvampire", "fg": [{"weight": 10, "sprite": 77}, {"weight": 10, "sprite": 78}, {"weight": 10, "sprite": 79}, {"weight": 10, "sprite": 80}, {"weight": 10, "sprite": 81}, {"weight": 10, "sprite": 82}], "bg": 5, "animated": false}, {"id": "corpse_mon_zombie_succumbvampire", "fg": 83, "rotates": false}, {"id": "mon_zombie_succumbvampire_conjurer", "fg": [{"weight": 100, "sprite": 84}, {"weight": 10, "sprite": 85}, {"weight": 10, "sprite": 87}, {"weight": 10, "sprite": 88}, {"weight": 10, "sprite": 87}, {"weight": 10, "sprite": 86}, {"weight": 10, "sprite": 85}], "bg": 5, "animated": true}, {"id": "mon_zombie_succumbvampire_hemomancer", "fg": 89, "bg": 5, "animated": false}, {"id": "mon_zombie_succumbvampire_sinker", "fg": [{"weight": 100, "sprite": 90}, {"weight": 10, "sprite": 91}, {"weight": 10, "sprite": 93}, {"weight": 10, "sprite": 94}, {"weight": 10, "sprite": 93}, {"weight": 10, "sprite": 92}, {"weight": 10, "sprite": 91}], "bg": 5, "animated": true}, {"id": "mon_zombie_succumbvampire_warlock", "fg": 95, "bg": 5, "animated": false}, {"id": "b11_striker", "fg": 96, "rotates": false}, {"id": "overlay_wielded_b11_striker", "fg": 97, "rotates": false}, {"id": "bigbloodpack", "fg": 98, "rotates": false}, {"id": "overlay_worn_bigbloodpack", "fg": 99, "rotates": false}, {"id": "bigbloodrune", "fg": 100, "rotates": false}, {"id": "bloodchem", "fg": 101, "rotates": false}, {"id": "bloodcompressor", "fg": 102, "rotates": false}, {"id": "bloodextract", "fg": 103, "rotates": false}, {"id": "bloodextractor", "fg": 104, "rotates": false}, {"id": "bloodinfused_survivorboots", "fg": 105, "rotates": false}, {"id": "overlay_worn_bloodinfused_survivorboots", "fg": 106, "rotates": false}, {"id": "bloodinfused_survivorduster", "fg": 107, "rotates": false}, {"id": "overlay_worn_bloodinfused_survivorduster", "fg": 108, "rotates": false}, {"id": "bloodinfused_survivorgloves", "fg": 109, "rotates": false}, {"id": "overlay_worn_bloodinfused_survivorgloves", "fg": 110, "rotates": false}, {"id": "bloodinfused_survivorhood", "fg": 111, "rotates": false}, {"id": "overlay_worn_bloodinfused_survivorhood", "fg": 112, "rotates": false}, {"id": "bloodinfused_survivorpants", "fg": 113, "rotates": false}, {"id": "overlay_worn_bloodinfused_survivorpants", "fg": 114, "rotates": false}, {"id": "bloodinfused_survivortrenchcoat", "fg": 115, "bg": 4}, {"id": "overlay_worn_bloodinfused_survivortrenchcoat", "fg": 116, "rotates": false}, {"id": "bloodpack", "fg": 117, "rotates": false}, {"id": "overlay_worn_bloodpack", "fg": 118, "rotates": false}, {"id": "bloodpowder", "fg": 119, "rotates": false}, {"id": "bloodrune", "fg": 120, "rotates": false}, {"id": "bloodsac", "fg": 121, "rotates": false}, {"id": "bloodshot_00", "fg": 122, "rotates": false}, {"id": "bloodyinfect", "fg": 123, "rotates": false}, {"id": "bloodypressure", "fg": 124, "rotates": false}, {"id": "bloodyshaky", "fg": 125, "rotates": false}, {"id": "blood_boots", "fg": 126, "rotates": false}, {"id": "overlay_worn_blood_boots", "fg": 127, "rotates": false}, {"id": "blood_cring", "fg": 128, "rotates": false}, {"id": "overlay_wielded_blood_cring", "fg": 129, "rotates": false}, {"id": "blood_duster", "fg": 130, "rotates": false}, {"id": "overlay_worn_blood_duster", "fg": 131, "rotates": false}, {"id": "blood_forge_infuse", "fg": 132, "rotates": false}, {"id": "blood_gloves", "fg": 133, "rotates": false}, {"id": "overlay_worn_blood_gloves", "fg": 134, "rotates": false}, {"id": "blood_hood", "fg": 135, "rotates": false}, {"id": "overlay_worn_blood_hood", "fg": 136, "rotates": false}, {"id": "blood_pants", "fg": 137, "rotates": false}, {"id": "overlay_worn_blood_pants", "fg": 138, "rotates": false}, {"id": "blood_sprayer", "fg": 139, "rotates": false}, {"id": "overlay_wielded_blood_sprayer", "fg": 140, "rotates": false}, {"id": "blood_stinger", "fg": 141, "rotates": false}, {"id": "overlay_wielded_blood_stinger", "fg": 142, "rotates": false}, {"id": "blood_stream_shooter", "fg": 143, "rotates": false}, {"id": "overlay_wielded_blood_stream_shooter", "fg": 144, "rotates": false}, {"id": "blood_suit", "fg": 145, "rotates": false}, {"id": "overlay_worn_blood_suit", "fg": 146, "rotates": false}, {"id": "compactsheet", "fg": 147, "rotates": false}, {"id": "corruptbloodrune", "fg": 148, "rotates": false}, {"id": "crypt_map", "fg": 149, "rotates": false}, {"id": "falc_crimsword", "fg": 150, "rotates": false}, {"id": "overlay_wielded_falc_crimsword", "fg": 151, "rotates": false}, {"id": "falc_crimswordplus", "fg": 152, "rotates": false}, {"id": "overlay_wielded_falc_crimswordplus", "fg": 153, "rotates": false}, {"id": "hammerius", "fg": 154, "rotates": false}, {"id": "overlay_wielded_hammerius", "fg": 155, "rotates": false}, {"id": "hammeriusplus", "fg": 156, "rotates": false}, {"id": "overlay_wielded_hammeriusplus", "fg": 157, "rotates": false}, {"id": "invy_bow", "fg": 158, "rotates": false}, {"id": "overlay_wielded_invy_bow", "fg": 159, "rotates": false}, {"id": "jug_suck", "fg": 160, "rotates": false}, {"id": "melted_bloodrune", "fg": 161, "rotates": false}, {"id": "pelletblood", "fg": 162, "rotates": false}, {"id": "punchie_bitie", "fg": 163, "rotates": false}, {"id": "overlay_wielded_punchie_bitie", "fg": 164, "rotates": false}, {"id": "punchie_bitieplus", "fg": 165, "rotates": false}, {"id": "overlay_wielded_punchie_bitieplus", "fg": 166, "rotates": false}, {"id": "reloaded_bloodshot_00", "fg": 167, "rotates": false}, {"id": "smallleechteeth", "fg": 168, "rotates": false}, {"id": "stickyblood", "fg": 169, "rotates": false}, {"id": "sword_dive", "fg": 170, "rotates": false}, {"id": "overlay_wielded_sword_dive", "fg": 171, "rotates": false}, {"id": "sword_diveplus", "fg": 172, "rotates": false}, {"id": "overlay_wielded_sword_diveplus", "fg": 173, "rotates": false}, {"id": "sword_sip", "fg": 174, "rotates": false}, {"id": "overlay_wielded_sword_sip", "fg": 175, "rotates": false}, {"id": "sword_sipplus", "fg": 176, "rotates": false}, {"id": "overlay_wielded_sword_sipplus", "fg": 177, "rotates": false}, {"id": "vampcave_map", "fg": 178, "rotates": false}, {"id": ["vamp_book1", "vamp_book2", "vamp_book3", "vamp_book4", "vamp_book5", "vamp_book6"], "fg": 179, "rotates": false}, {"id": "vamp_darkfashion1", "fg": 180, "rotates": false}, {"id": "vamp_gunner1", "fg": 181, "rotates": false}, {"id": "vamp_upgradebook1", "fg": 182, "rotates": false}, {"id": "t_blood_dp", "fg": 183, "bg": 6, "rotates": false, "multitile": true, "additional_tiles": [{"id": "center", "fg": [{"weight": 30, "sprite": 184}, {"weight": 30, "sprite": 185}, {"weight": 30, "sprite": 186}, {"weight": 30, "sprite": 187}, {"weight": 30, "sprite": 188}, {"weight": 30, "sprite": 189}, {"weight": 30, "sprite": 190}, {"weight": 30, "sprite": 191}, {"weight": 30, "sprite": 192}], "bg": 6}, {"id": "corner", "fg": [{"weight": 30, "sprite": 193}, {"weight": 30, "sprite": 194}, {"weight": 30, "sprite": 195}, {"weight": 30, "sprite": 196}, {"weight": 30, "sprite": 197}, {"weight": 30, "sprite": 198}, {"weight": 30, "sprite": 199}, {"weight": 30, "sprite": 200}, {"weight": 30, "sprite": 201}], "bg": 6}, {"id": "t_connection", "fg": [220, 221, 222, 223], "bg": 6}, {"id": "edge", "fg": [{"weight": 30, "sprite": 202}, {"weight": 30, "sprite": 203}, {"weight": 30, "sprite": 204}, {"weight": 30, "sprite": 205}, {"weight": 30, "sprite": 206}, {"weight": 30, "sprite": 207}, {"weight": 30, "sprite": 208}, {"weight": 30, "sprite": 209}, {"weight": 30, "sprite": 210}], "bg": 6}, {"id": "end_piece", "fg": [{"weight": 30, "sprite": 211}, {"weight": 30, "sprite": 212}, {"weight": 30, "sprite": 213}, {"weight": 30, "sprite": 214}, {"weight": 30, "sprite": 215}, {"weight": 30, "sprite": 216}, {"weight": 30, "sprite": 217}, {"weight": 30, "sprite": 218}, {"weight": 30, "sprite": 219}], "bg": 6}, {"id": "unconnected", "fg": [{"weight": 30, "sprite": 224}, {"weight": 30, "sprite": 225}, {"weight": 30, "sprite": 226}, {"weight": 30, "sprite": 227}, {"weight": 30, "sprite": 228}, {"weight": 30, "sprite": 229}, {"weight": 30, "sprite": 230}, {"weight": 30, "sprite": 231}, {"weight": 30, "sprite": 232}], "bg": 6}]}, {"id": "t_blood_sh", "fg": 233, "bg": 6, "rotates": false, "multitile": true, "additional_tiles": [{"id": "center", "fg": [{"weight": 30, "sprite": 234}, {"weight": 30, "sprite": 235}, {"weight": 30, "sprite": 236}, {"weight": 30, "sprite": 237}, {"weight": 30, "sprite": 238}, {"weight": 30, "sprite": 239}, {"weight": 30, "sprite": 240}, {"weight": 30, "sprite": 241}, {"weight": 30, "sprite": 242}], "bg": 6}, {"id": "corner", "fg": [{"weight": 30, "sprite": 243}, {"weight": 30, "sprite": 244}, {"weight": 30, "sprite": 245}, {"weight": 30, "sprite": 246}, {"weight": 30, "sprite": 247}, {"weight": 30, "sprite": 248}, {"weight": 30, "sprite": 249}, {"weight": 30, "sprite": 250}, {"weight": 30, "sprite": 251}], "bg": 6}, {"id": "t_connection", "fg": [270, 271, 272, 273], "bg": 6}, {"id": "edge", "fg": [{"weight": 30, "sprite": 252}, {"weight": 30, "sprite": 253}, {"weight": 30, "sprite": 254}, {"weight": 30, "sprite": 255}, {"weight": 30, "sprite": 256}, {"weight": 30, "sprite": 257}, {"weight": 30, "sprite": 258}, {"weight": 30, "sprite": 259}, {"weight": 30, "sprite": 260}], "bg": 6}, {"id": "end_piece", "fg": [{"weight": 30, "sprite": 261}, {"weight": 30, "sprite": 262}, {"weight": 30, "sprite": 263}, {"weight": 30, "sprite": 264}, {"weight": 30, "sprite": 265}, {"weight": 30, "sprite": 266}, {"weight": 30, "sprite": 267}, {"weight": 30, "sprite": 268}, {"weight": 30, "sprite": 269}], "bg": 6}, {"id": "unconnected", "fg": [{"weight": 30, "sprite": 274}, {"weight": 30, "sprite": 275}, {"weight": 30, "sprite": 276}, {"weight": 30, "sprite": 277}, {"weight": 30, "sprite": 278}, {"weight": 30, "sprite": 279}, {"weight": 30, "sprite": 280}, {"weight": 30, "sprite": 281}, {"weight": 30, "sprite": 282}], "bg": 6}]}], "//": "range 1 to 288", "sprite_width": 32, "sprite_height": 32, "sprite_offset_x": 0, "sprite_offset_y": 0}, {"file": "VampiricStuff_large.png", "tiles": [{"id": "mon_idol_vex", "fg": [{"weight": 10, "sprite": 289}, {"weight": 10, "sprite": 290}, {"weight": 10, "sprite": 291}, {"weight": 10, "sprite": 292}, {"weight": 10, "sprite": 293}, {"weight": 10, "sprite": 294}, {"weight": 10, "sprite": 295}, {"weight": 10, "sprite": 296}, {"weight": 10, "sprite": 297}], "animated": true}, {"id": "mon_zombie_bonetitan", "fg": 298, "rotates": false}, {"id": "corpse_mon_zombie_bonetitan", "fg": 299, "rotates": false}], "//": "range 289 to 304", "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48}]}]
+[
+  {
+    "type": "mod_tileset",
+    "compatibility": [ "UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE", "MshockRealXotto", "MSX++DEAD_PEOPLE" ],
+    "tiles-new": [
+      {
+        "file": "VampiricStuff_normal.png",
+        "tiles": [
+          { "id": "bg_dirt", "fg": 1 },
+          { "id": "bg_dirt_season_winter", "fg": 2, "rotates": false },
+          { "id": "bg_pavement", "fg": 3, "rotates": false },
+          { "id": "bg_shadow_item", "fg": 4, "rotates": false },
+          { "id": "bg_shadow_normal", "fg": 5 },
+          { "id": "bg_stone_floor", "fg": 6, "rotates": false },
+          {
+            "id": "mon_bigvampbat",
+            "fg": [ { "weight": 10, "sprite": 7 }, { "weight": 10, "sprite": 8 }, { "weight": 10, "sprite": 9 } ],
+            "animated": true
+          },
+          { "id": "corpse_mon_bigvampbat", "fg": 10, "rotates": false },
+          {
+            "id": "mon_feralvampbat",
+            "fg": [ { "weight": 10, "sprite": 11 }, { "weight": 10, "sprite": 12 }, { "weight": 10, "sprite": 13 } ],
+            "animated": true
+          },
+          { "id": "corpse_mon_feralvampbat", "fg": 14, "rotates": false },
+          {
+            "id": "mon_vampbat",
+            "fg": [ { "weight": 10, "sprite": 15 }, { "weight": 10, "sprite": 16 }, { "weight": 10, "sprite": 17 } ],
+            "animated": true
+          },
+          { "id": "corpse_mon_vampbat", "fg": 18, "rotates": false },
+          { "id": "mon_insect_abominableleech", "fg": 19, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_abominableleech", "fg": 20, "bg": 5, "rotates": false },
+          { "id": "mon_insect_acidicleech", "fg": 21, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_acidicleech", "fg": 22, "bg": 5, "rotates": false },
+          { "id": "mon_insect_bigleech", "fg": 23, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_bigleech", "fg": 24, "bg": 5, "rotates": false },
+          { "id": "mon_insect_bloatedleech", "fg": 25, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_bloatedleech", "fg": 26, "bg": 5, "rotates": false },
+          { "id": "mon_insect_bloodsurgeleech", "fg": 27, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_bloodsurgeleech", "fg": 28, "rotates": false },
+          { "id": "mon_insect_devourerleech", "fg": 29, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_devourerleech", "fg": 30, "rotates": false },
+          { "id": "mon_insect_dreadfulleech", "fg": 31, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_dreadfulleech", "fg": 32, "rotates": false },
+          { "id": "mon_insect_eyedleech", "fg": 33, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_eyedleech", "fg": 34, "bg": 5, "rotates": false },
+          { "id": "mon_insect_hugeleech", "fg": 35, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_hugeleech", "fg": 36, "rotates": false },
+          { "id": "mon_insect_leech", "fg": 37, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_leech", "fg": 38, "bg": 5, "rotates": false },
+          { "id": "mon_insect_sharpshooterleech", "fg": 39, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_sharpshooterleech", "fg": 40, "bg": 5, "rotates": false },
+          { "id": "mon_insect_spikyleech", "fg": 41, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_spikyleech", "fg": 42, "bg": 5, "rotates": false },
+          { "id": "mon_insect_vampireleech", "fg": 43, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_vampireleech", "fg": 44, "bg": 5, "rotates": false },
+          { "id": "mon_insect_venomleech", "fg": 45, "bg": 5, "rotates": false },
+          { "id": "corpse_mon_insect_venomleech", "fg": 46, "bg": 5, "rotates": false },
+          {
+            "id": "mon_desolation_aura",
+            "fg": [
+              { "weight": 10, "sprite": 47 },
+              { "weight": 10, "sprite": 48 },
+              { "weight": 10, "sprite": 49 },
+              { "weight": 10, "sprite": 50 },
+              { "weight": 10, "sprite": 51 }
+            ],
+            "animated": true
+          },
+          {
+            "id": "mon_ether_shadow",
+            "fg": [
+              { "weight": 10, "sprite": 52 },
+              { "weight": 10, "sprite": 53 },
+              { "weight": 10, "sprite": 55 },
+              { "weight": 10, "sprite": 56 },
+              { "weight": 10, "sprite": 55 },
+              { "weight": 10, "sprite": 54 },
+              { "weight": 10, "sprite": 53 }
+            ],
+            "animated": true
+          },
+          {
+            "id": "mon_idol_vex_etherhar",
+            "fg": [
+              { "weight": 10, "sprite": 57 },
+              { "weight": 10, "sprite": 58 },
+              { "weight": 10, "sprite": 60 },
+              { "weight": 10, "sprite": 61 },
+              { "weight": 10, "sprite": 60 },
+              { "weight": 10, "sprite": 59 },
+              { "weight": 10, "sprite": 58 }
+            ],
+            "animated": true
+          },
+          {
+            "id": "mon_orus_bloodling",
+            "fg": [
+              { "weight": 10, "sprite": 62 },
+              { "weight": 10, "sprite": 63 },
+              { "weight": 10, "sprite": 65 },
+              { "weight": 10, "sprite": 66 },
+              { "weight": 10, "sprite": 65 },
+              { "weight": 10, "sprite": 64 },
+              { "weight": 10, "sprite": 63 }
+            ],
+            "animated": true
+          },
+          {
+            "id": "mon_zombie_bloodcompact",
+            "fg": [ { "weight": 10, "sprite": 67 }, { "weight": 10, "sprite": 68 }, { "weight": 10, "sprite": 69 } ],
+            "bg": 5,
+            "animated": true
+          },
+          { "id": "corpse_mon_zombie_bloodcompact", "fg": 70, "rotates": false },
+          { "id": "mon_zombie_blooddefused", "fg": 71, "bg": 5, "animated": false },
+          { "id": "corpse_mon_zombie_blooddefused", "fg": 72, "rotates": false },
+          { "id": "mon_zombie_bloodinfused", "fg": 73, "bg": 5, "animated": false },
+          { "id": "corpse_mon_zombie_bloodinfused", "fg": 74, "rotates": false },
+          { "id": "mon_zombie_bonewraith", "fg": 75, "bg": 5, "animated": false },
+          { "id": "corpse_mon_zombie_bonewraith", "fg": 76, "rotates": false },
+          {
+            "id": "mon_zombie_succumbvampire",
+            "fg": [
+              { "weight": 10, "sprite": 77 },
+              { "weight": 10, "sprite": 78 },
+              { "weight": 10, "sprite": 79 },
+              { "weight": 10, "sprite": 80 },
+              { "weight": 10, "sprite": 81 },
+              { "weight": 10, "sprite": 82 }
+            ],
+            "bg": 5,
+            "animated": false
+          },
+          { "id": "corpse_mon_zombie_succumbvampire", "fg": 83, "rotates": false },
+          {
+            "id": "mon_zombie_succumbvampire_conjurer",
+            "fg": [
+              { "weight": 100, "sprite": 84 },
+              { "weight": 10, "sprite": 85 },
+              { "weight": 10, "sprite": 87 },
+              { "weight": 10, "sprite": 88 },
+              { "weight": 10, "sprite": 87 },
+              { "weight": 10, "sprite": 86 },
+              { "weight": 10, "sprite": 85 }
+            ],
+            "bg": 5,
+            "animated": true
+          },
+          { "id": "mon_zombie_succumbvampire_hemomancer", "fg": 89, "bg": 5, "animated": false },
+          {
+            "id": "mon_zombie_succumbvampire_sinker",
+            "fg": [
+              { "weight": 100, "sprite": 90 },
+              { "weight": 10, "sprite": 91 },
+              { "weight": 10, "sprite": 93 },
+              { "weight": 10, "sprite": 94 },
+              { "weight": 10, "sprite": 93 },
+              { "weight": 10, "sprite": 92 },
+              { "weight": 10, "sprite": 91 }
+            ],
+            "bg": 5,
+            "animated": true
+          },
+          { "id": "mon_zombie_succumbvampire_warlock", "fg": 95, "bg": 5, "animated": false },
+          { "id": "b11_striker", "fg": 96, "rotates": false },
+          { "id": "overlay_wielded_b11_striker", "fg": 97, "rotates": false },
+          { "id": "bigbloodpack", "fg": 98, "rotates": false },
+          { "id": "overlay_worn_bigbloodpack", "fg": 99, "rotates": false },
+          { "id": "bigbloodrune", "fg": 100, "rotates": false },
+          { "id": "bloodchem", "fg": 101, "rotates": false },
+          { "id": "bloodcompressor", "fg": 102, "rotates": false },
+          { "id": "bloodextract", "fg": 103, "rotates": false },
+          { "id": "bloodextractor", "fg": 104, "rotates": false },
+          { "id": "bloodinfused_survivorboots", "fg": 105, "rotates": false },
+          { "id": "overlay_worn_bloodinfused_survivorboots", "fg": 106, "rotates": false },
+          { "id": "bloodinfused_survivorduster", "fg": 107, "rotates": false },
+          { "id": "overlay_worn_bloodinfused_survivorduster", "fg": 108, "rotates": false },
+          { "id": "bloodinfused_survivorgloves", "fg": 109, "rotates": false },
+          { "id": "overlay_worn_bloodinfused_survivorgloves", "fg": 110, "rotates": false },
+          { "id": "bloodinfused_survivorhood", "fg": 111, "rotates": false },
+          { "id": "overlay_worn_bloodinfused_survivorhood", "fg": 112, "rotates": false },
+          { "id": "bloodinfused_survivorpants", "fg": 113, "rotates": false },
+          { "id": "overlay_worn_bloodinfused_survivorpants", "fg": 114, "rotates": false },
+          { "id": "bloodinfused_survivortrenchcoat", "fg": 115, "bg": 4 },
+          { "id": "overlay_worn_bloodinfused_survivortrenchcoat", "fg": 116, "rotates": false },
+          { "id": "bloodpack", "fg": 117, "rotates": false },
+          { "id": "overlay_worn_bloodpack", "fg": 118, "rotates": false },
+          { "id": "bloodpowder", "fg": 119, "rotates": false },
+          { "id": "bloodrune", "fg": 120, "rotates": false },
+          { "id": "bloodsac", "fg": 121, "rotates": false },
+          { "id": "bloodshot_00", "fg": 122, "rotates": false },
+          { "id": "bloodyinfect", "fg": 123, "rotates": false },
+          { "id": "bloodypressure", "fg": 124, "rotates": false },
+          { "id": "bloodyshaky", "fg": 125, "rotates": false },
+          { "id": "blood_boots", "fg": 126, "rotates": false },
+          { "id": "overlay_worn_blood_boots", "fg": 127, "rotates": false },
+          { "id": "blood_cring", "fg": 128, "rotates": false },
+          { "id": "overlay_wielded_blood_cring", "fg": 129, "rotates": false },
+          { "id": "blood_duster", "fg": 130, "rotates": false },
+          { "id": "overlay_worn_blood_duster", "fg": 131, "rotates": false },
+          { "id": "blood_forge_infuse", "fg": 132, "rotates": false },
+          { "id": "blood_gloves", "fg": 133, "rotates": false },
+          { "id": "overlay_worn_blood_gloves", "fg": 134, "rotates": false },
+          { "id": "blood_hood", "fg": 135, "rotates": false },
+          { "id": "overlay_worn_blood_hood", "fg": 136, "rotates": false },
+          { "id": "blood_pants", "fg": 137, "rotates": false },
+          { "id": "overlay_worn_blood_pants", "fg": 138, "rotates": false },
+          { "id": "blood_sprayer", "fg": 139, "rotates": false },
+          { "id": "overlay_wielded_blood_sprayer", "fg": 140, "rotates": false },
+          { "id": "blood_stinger", "fg": 141, "rotates": false },
+          { "id": "overlay_wielded_blood_stinger", "fg": 142, "rotates": false },
+          { "id": "blood_stream_shooter", "fg": 143, "rotates": false },
+          { "id": "overlay_wielded_blood_stream_shooter", "fg": 144, "rotates": false },
+          { "id": "blood_suit", "fg": 145, "rotates": false },
+          { "id": "overlay_worn_blood_suit", "fg": 146, "rotates": false },
+          { "id": "compactsheet", "fg": 147, "rotates": false },
+          { "id": "corruptbloodrune", "fg": 148, "rotates": false },
+          { "id": "crypt_map", "fg": 149, "rotates": false },
+          { "id": "falc_crimsword", "fg": 150, "rotates": false },
+          { "id": "overlay_wielded_falc_crimsword", "fg": 151, "rotates": false },
+          { "id": "falc_crimswordplus", "fg": 152, "rotates": false },
+          { "id": "overlay_wielded_falc_crimswordplus", "fg": 153, "rotates": false },
+          { "id": "hammerius", "fg": 154, "rotates": false },
+          { "id": "overlay_wielded_hammerius", "fg": 155, "rotates": false },
+          { "id": "hammeriusplus", "fg": 156, "rotates": false },
+          { "id": "overlay_wielded_hammeriusplus", "fg": 157, "rotates": false },
+          { "id": "invy_bow", "fg": 158, "rotates": false },
+          { "id": "overlay_wielded_invy_bow", "fg": 159, "rotates": false },
+          { "id": "jug_suck", "fg": 160, "rotates": false },
+          { "id": "melted_bloodrune", "fg": 161, "rotates": false },
+          { "id": "pelletblood", "fg": 162, "rotates": false },
+          { "id": "punchie_bitie", "fg": 163, "rotates": false },
+          { "id": "overlay_wielded_punchie_bitie", "fg": 164, "rotates": false },
+          { "id": "punchie_bitieplus", "fg": 165, "rotates": false },
+          { "id": "overlay_wielded_punchie_bitieplus", "fg": 166, "rotates": false },
+          { "id": "reloaded_bloodshot_00", "fg": 167, "rotates": false },
+          { "id": "smallleechteeth", "fg": 168, "rotates": false },
+          { "id": "stickyblood", "fg": 169, "rotates": false },
+          { "id": "sword_dive", "fg": 170, "rotates": false },
+          { "id": "overlay_wielded_sword_dive", "fg": 171, "rotates": false },
+          { "id": "sword_diveplus", "fg": 172, "rotates": false },
+          { "id": "overlay_wielded_sword_diveplus", "fg": 173, "rotates": false },
+          { "id": "sword_sip", "fg": 174, "rotates": false },
+          { "id": "overlay_wielded_sword_sip", "fg": 175, "rotates": false },
+          { "id": "sword_sipplus", "fg": 176, "rotates": false },
+          { "id": "overlay_wielded_sword_sipplus", "fg": 177, "rotates": false },
+          { "id": "vampcave_map", "fg": 178, "rotates": false },
+          {
+            "id": [ "vamp_book1", "vamp_book2", "vamp_book3", "vamp_book4", "vamp_book5", "vamp_book6" ],
+            "fg": 179,
+            "rotates": false
+          },
+          { "id": "vamp_darkfashion1", "fg": 180, "rotates": false },
+          { "id": "vamp_gunner1", "fg": 181, "rotates": false },
+          { "id": "vamp_upgradebook1", "fg": 182, "rotates": false },
+          {
+            "id": "t_blood_dp",
+            "fg": 183,
+            "bg": 6,
+            "rotates": false,
+            "multitile": true,
+            "additional_tiles": [
+              {
+                "id": "center",
+                "fg": [
+                  { "weight": 30, "sprite": 184 },
+                  { "weight": 30, "sprite": 185 },
+                  { "weight": 30, "sprite": 186 },
+                  { "weight": 30, "sprite": 187 },
+                  { "weight": 30, "sprite": 188 },
+                  { "weight": 30, "sprite": 189 },
+                  { "weight": 30, "sprite": 190 },
+                  { "weight": 30, "sprite": 191 },
+                  { "weight": 30, "sprite": 192 }
+                ],
+                "bg": 6
+              },
+              {
+                "id": "corner",
+                "fg": [
+                  { "weight": 30, "sprite": 193 },
+                  { "weight": 30, "sprite": 194 },
+                  { "weight": 30, "sprite": 195 },
+                  { "weight": 30, "sprite": 196 },
+                  { "weight": 30, "sprite": 197 },
+                  { "weight": 30, "sprite": 198 },
+                  { "weight": 30, "sprite": 199 },
+                  { "weight": 30, "sprite": 200 },
+                  { "weight": 30, "sprite": 201 }
+                ],
+                "bg": 6
+              },
+              { "id": "t_connection", "fg": [ 220, 221, 222, 223 ], "bg": 6 },
+              {
+                "id": "edge",
+                "fg": [
+                  { "weight": 30, "sprite": 202 },
+                  { "weight": 30, "sprite": 203 },
+                  { "weight": 30, "sprite": 204 },
+                  { "weight": 30, "sprite": 205 },
+                  { "weight": 30, "sprite": 206 },
+                  { "weight": 30, "sprite": 207 },
+                  { "weight": 30, "sprite": 208 },
+                  { "weight": 30, "sprite": 209 },
+                  { "weight": 30, "sprite": 210 }
+                ],
+                "bg": 6
+              },
+              {
+                "id": "end_piece",
+                "fg": [
+                  { "weight": 30, "sprite": 211 },
+                  { "weight": 30, "sprite": 212 },
+                  { "weight": 30, "sprite": 213 },
+                  { "weight": 30, "sprite": 214 },
+                  { "weight": 30, "sprite": 215 },
+                  { "weight": 30, "sprite": 216 },
+                  { "weight": 30, "sprite": 217 },
+                  { "weight": 30, "sprite": 218 },
+                  { "weight": 30, "sprite": 219 }
+                ],
+                "bg": 6
+              },
+              {
+                "id": "unconnected",
+                "fg": [
+                  { "weight": 30, "sprite": 224 },
+                  { "weight": 30, "sprite": 225 },
+                  { "weight": 30, "sprite": 226 },
+                  { "weight": 30, "sprite": 227 },
+                  { "weight": 30, "sprite": 228 },
+                  { "weight": 30, "sprite": 229 },
+                  { "weight": 30, "sprite": 230 },
+                  { "weight": 30, "sprite": 231 },
+                  { "weight": 30, "sprite": 232 }
+                ],
+                "bg": 6
+              }
+            ]
+          },
+          {
+            "id": "t_blood_sh",
+            "fg": 233,
+            "bg": 6,
+            "rotates": false,
+            "multitile": true,
+            "additional_tiles": [
+              {
+                "id": "center",
+                "fg": [
+                  { "weight": 30, "sprite": 234 },
+                  { "weight": 30, "sprite": 235 },
+                  { "weight": 30, "sprite": 236 },
+                  { "weight": 30, "sprite": 237 },
+                  { "weight": 30, "sprite": 238 },
+                  { "weight": 30, "sprite": 239 },
+                  { "weight": 30, "sprite": 240 },
+                  { "weight": 30, "sprite": 241 },
+                  { "weight": 30, "sprite": 242 }
+                ],
+                "bg": 6
+              },
+              {
+                "id": "corner",
+                "fg": [
+                  { "weight": 30, "sprite": 243 },
+                  { "weight": 30, "sprite": 244 },
+                  { "weight": 30, "sprite": 245 },
+                  { "weight": 30, "sprite": 246 },
+                  { "weight": 30, "sprite": 247 },
+                  { "weight": 30, "sprite": 248 },
+                  { "weight": 30, "sprite": 249 },
+                  { "weight": 30, "sprite": 250 },
+                  { "weight": 30, "sprite": 251 }
+                ],
+                "bg": 6
+              },
+              { "id": "t_connection", "fg": [ 270, 271, 272, 273 ], "bg": 6 },
+              {
+                "id": "edge",
+                "fg": [
+                  { "weight": 30, "sprite": 252 },
+                  { "weight": 30, "sprite": 253 },
+                  { "weight": 30, "sprite": 254 },
+                  { "weight": 30, "sprite": 255 },
+                  { "weight": 30, "sprite": 256 },
+                  { "weight": 30, "sprite": 257 },
+                  { "weight": 30, "sprite": 258 },
+                  { "weight": 30, "sprite": 259 },
+                  { "weight": 30, "sprite": 260 }
+                ],
+                "bg": 6
+              },
+              {
+                "id": "end_piece",
+                "fg": [
+                  { "weight": 30, "sprite": 261 },
+                  { "weight": 30, "sprite": 262 },
+                  { "weight": 30, "sprite": 263 },
+                  { "weight": 30, "sprite": 264 },
+                  { "weight": 30, "sprite": 265 },
+                  { "weight": 30, "sprite": 266 },
+                  { "weight": 30, "sprite": 267 },
+                  { "weight": 30, "sprite": 268 },
+                  { "weight": 30, "sprite": 269 }
+                ],
+                "bg": 6
+              },
+              {
+                "id": "unconnected",
+                "fg": [
+                  { "weight": 30, "sprite": 274 },
+                  { "weight": 30, "sprite": 275 },
+                  { "weight": 30, "sprite": 276 },
+                  { "weight": 30, "sprite": 277 },
+                  { "weight": 30, "sprite": 278 },
+                  { "weight": 30, "sprite": 279 },
+                  { "weight": 30, "sprite": 280 },
+                  { "weight": 30, "sprite": 281 },
+                  { "weight": 30, "sprite": 282 }
+                ],
+                "bg": 6
+              }
+            ]
+          }
+        ],
+        "//": "range 1 to 288",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0
+      },
+      {
+        "file": "VampiricStuff_large.png",
+        "tiles": [
+          {
+            "id": "mon_idol_vex",
+            "fg": [
+              { "weight": 10, "sprite": 289 },
+              { "weight": 10, "sprite": 290 },
+              { "weight": 10, "sprite": 291 },
+              { "weight": 10, "sprite": 292 },
+              { "weight": 10, "sprite": 293 },
+              { "weight": 10, "sprite": 294 },
+              { "weight": 10, "sprite": 295 },
+              { "weight": 10, "sprite": 296 },
+              { "weight": 10, "sprite": 297 }
+            ],
+            "animated": true
+          },
+          { "id": "mon_zombie_bonetitan", "fg": 298, "rotates": false },
+          { "id": "corpse_mon_zombie_bonetitan", "fg": 299, "rotates": false }
+        ],
+        "//": "range 289 to 304",
+        "sprite_width": 64,
+        "sprite_height": 80,
+        "sprite_offset_x": -16,
+        "sprite_offset_y": -48
+      }
+    ]
+  }
+]

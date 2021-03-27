@@ -1,1 +1,88 @@
-[{"type": "mod_tileset", "compatibility": ["UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE", "MshockRealXotto", "MSX++DEAD_PEOPLE"], "tiles-new": [{"file": "My_Sweet_Cataclysm_normal.png", "tiles": [{"id": "bg_shadow_normal", "fg": 1, "rotates": false}, {"id": "broken_necco", "fg": 2, "rotates": false}, {"id": "caff_gum", "fg": 3, "rotates": false}, {"id": "candy3", "fg": 4, "rotates": false}, {"id": "cookies", "fg": 5, "rotates": false}, {"id": "grahmcrackers", "fg": 6, "rotates": false}, {"id": "gum", "fg": 7, "rotates": false}, {"id": "marshmallow", "fg": 8, "rotates": false}, {"id": "smores", "fg": 9, "rotates": false}, {"id": "overlay_effect_gummed", "fg": 10, "rotates": false}, {"id": "fd_gum_web", "fg": 11, "rotates": true, "multitile": true, "additional_tiles": [{"id": "center", "fg": 12}, {"id": "corner", "fg": [13, 14, 15, 16]}, {"id": "t_connection", "fg": [23, 24, 25, 26]}, {"id": "edge", "fg": [17, 18]}, {"id": "end_piece", "fg": [19, 20, 21, 22]}, {"id": "unconnected", "fg": 27}]}, {"id": "ruined_candy", "fg": 28, "rotates": false}, {"id": "sugarkin_flyer", "fg": 29, "rotates": false}, {"id": "caramel_ointement", "fg": 30, "rotates": false}, {"id": "mon_cookie", "fg": 31, "bg": 1, "rotates": false}, {"id": "corpse_mon_cookie", "fg": 32, "rotates": false}, {"id": "mon_cracker", "fg": 33, "bg": 1, "rotates": false}, {"id": "corpse_mon_cracker", "fg": 34, "rotates": false}, {"id": "mon_gummy", "fg": 35, "bg": 1, "rotates": false}, {"id": "corpse_mon_gummy", "fg": 36, "rotates": false}, {"id": "mon_gummy_cub", "fg": 37, "bg": 1, "rotates": false}, {"id": "corpse_mon_gummy_cub", "fg": 38, "rotates": false}, {"id": "mon_gum_spider_wolf", "fg": 39, "bg": 1, "rotates": false}, {"id": "corpse_mon_gum_spider_wolf", "fg": 40, "rotates": false}, {"id": "mon_marshmallow_buff", "fg": 41, "bg": 1, "rotates": false}, {"id": "corpse_mon_marshmallow_buff", "fg": 42, "rotates": false}, {"id": "mon_marshmallow_buff_armored", "fg": 43, "bg": 1, "rotates": false}, {"id": "corpse_mon_marshmallow_buff_armored", "fg": 44, "rotates": false}, {"id": "mon_marshmallow_guy", "fg": 45, "bg": 1, "rotates": false}, {"id": "corpse_mon_marshmallow_guy", "fg": 46, "rotates": false}, {"id": "mon_marshmallow_guy_armored", "fg": 47, "bg": 1, "rotates": false}, {"id": "corpse_mon_marshmallow_guy_armored", "fg": 48, "rotates": false}, {"id": "mon_marshmallow_kid", "fg": 49, "bg": 1, "rotates": false}, {"id": "corpse_mon_marshmallow_kid", "fg": 50, "rotates": false}, {"id": "mon_marshmallow_kid_armored", "fg": 51, "bg": 1, "rotates": false}, {"id": "corpse_mon_marshmallow_kid_armored", "fg": 52, "rotates": false}, {"id": "mon_necco", "fg": 53, "bg": 1, "rotates": false}, {"id": "mon_small_cracker", "fg": 54, "bg": 1, "rotates": false}, {"id": "corpse_mon_small_cracker", "fg": 55, "rotates": false}, {"id": "mon_spider_gum", "fg": 56, "bg": 1, "rotates": false}, {"id": "corpse_mon_spider_gum", "fg": 57, "rotates": false}, {"id": "overlay_female_mutation_SUGAR", "fg": 58, "rotates": false}, {"id": "overlay_male_mutation_SUGAR", "fg": 59, "rotates": false}], "//": "range 1 to 64", "sprite_width": 32, "sprite_height": 32, "sprite_offset_x": 0, "sprite_offset_y": 0}, {"file": "My_Sweet_Cataclysm_large.png", "tiles": [{"id": "mon_marshmallow_goliath", "fg": 65, "rotates": false}, {"id": "corpse_mon_marshmallow_goliath", "fg": 66, "rotates": false}, {"id": "mon_marshmallow_goliath_armored", "fg": 67, "rotates": false}, {"id": "corpse_mon_marshmallow_goliath_armored", "fg": 68, "rotates": false}], "//": "range 65 to 80", "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48}]}]
+[
+  {
+    "type": "mod_tileset",
+    "compatibility": [ "UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE", "MshockRealXotto", "MSX++DEAD_PEOPLE" ],
+    "tiles-new": [
+      {
+        "file": "My_Sweet_Cataclysm_normal.png",
+        "tiles": [
+          { "id": "bg_shadow_normal", "fg": 1, "rotates": false },
+          { "id": "broken_necco", "fg": 2, "rotates": false },
+          { "id": "caff_gum", "fg": 3, "rotates": false },
+          { "id": "candy3", "fg": 4, "rotates": false },
+          { "id": "cookies", "fg": 5, "rotates": false },
+          { "id": "grahmcrackers", "fg": 6, "rotates": false },
+          { "id": "gum", "fg": 7, "rotates": false },
+          { "id": "marshmallow", "fg": 8, "rotates": false },
+          { "id": "smores", "fg": 9, "rotates": false },
+          { "id": "overlay_effect_gummed", "fg": 10, "rotates": false },
+          {
+            "id": "fd_gum_web",
+            "fg": 11,
+            "rotates": true,
+            "multitile": true,
+            "additional_tiles": [
+              { "id": "center", "fg": 12 },
+              { "id": "corner", "fg": [ 13, 14, 15, 16 ] },
+              { "id": "t_connection", "fg": [ 23, 24, 25, 26 ] },
+              { "id": "edge", "fg": [ 17, 18 ] },
+              { "id": "end_piece", "fg": [ 19, 20, 21, 22 ] },
+              { "id": "unconnected", "fg": 27 }
+            ]
+          },
+          { "id": "ruined_candy", "fg": 28, "rotates": false },
+          { "id": "sugarkin_flyer", "fg": 29, "rotates": false },
+          { "id": "caramel_ointement", "fg": 30, "rotates": false },
+          { "id": "mon_cookie", "fg": 31, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_cookie", "fg": 32, "rotates": false },
+          { "id": "mon_cracker", "fg": 33, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_cracker", "fg": 34, "rotates": false },
+          { "id": "mon_gummy", "fg": 35, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_gummy", "fg": 36, "rotates": false },
+          { "id": "mon_gummy_cub", "fg": 37, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_gummy_cub", "fg": 38, "rotates": false },
+          { "id": "mon_gum_spider_wolf", "fg": 39, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_gum_spider_wolf", "fg": 40, "rotates": false },
+          { "id": "mon_marshmallow_buff", "fg": 41, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_marshmallow_buff", "fg": 42, "rotates": false },
+          { "id": "mon_marshmallow_buff_armored", "fg": 43, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_marshmallow_buff_armored", "fg": 44, "rotates": false },
+          { "id": "mon_marshmallow_guy", "fg": 45, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_marshmallow_guy", "fg": 46, "rotates": false },
+          { "id": "mon_marshmallow_guy_armored", "fg": 47, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_marshmallow_guy_armored", "fg": 48, "rotates": false },
+          { "id": "mon_marshmallow_kid", "fg": 49, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_marshmallow_kid", "fg": 50, "rotates": false },
+          { "id": "mon_marshmallow_kid_armored", "fg": 51, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_marshmallow_kid_armored", "fg": 52, "rotates": false },
+          { "id": "mon_necco", "fg": 53, "bg": 1, "rotates": false },
+          { "id": "mon_small_cracker", "fg": 54, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_small_cracker", "fg": 55, "rotates": false },
+          { "id": "mon_spider_gum", "fg": 56, "bg": 1, "rotates": false },
+          { "id": "corpse_mon_spider_gum", "fg": 57, "rotates": false },
+          { "id": "overlay_female_mutation_SUGAR", "fg": 58, "rotates": false },
+          { "id": "overlay_male_mutation_SUGAR", "fg": 59, "rotates": false }
+        ],
+        "//": "range 1 to 64",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0
+      },
+      {
+        "file": "My_Sweet_Cataclysm_large.png",
+        "tiles": [
+          { "id": "mon_marshmallow_goliath", "fg": 65, "rotates": false },
+          { "id": "corpse_mon_marshmallow_goliath", "fg": 66, "rotates": false },
+          { "id": "mon_marshmallow_goliath_armored", "fg": 67, "rotates": false },
+          { "id": "corpse_mon_marshmallow_goliath_armored", "fg": 68, "rotates": false }
+        ],
+        "//": "range 65 to 80",
+        "sprite_width": 64,
+        "sprite_height": 80,
+        "sprite_offset_x": -16,
+        "sprite_offset_y": -48
+      }
+    ]
+  }
+]
